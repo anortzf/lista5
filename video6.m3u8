@@ -1,0 +1,18 @@
+# EXTM3U
+# EXT-X-VERSION: 3
+# EXT-X-PLAYLIST-TYPE: VOD
+# SECUENCIA-EXT-X-MEDIA: 0
+# EXT-X-TARGETDURATION: 4
+#EXTINF: 4.000,
+https://github.com/anortzf/video4.ts/raw/main/i3q4gcBi-24721146.mp4-1.ts
+#EXTINF: 4.000,
+https://github.com/anortzf/video4.ts/raw/main/i3q4gcBi-24721146.mp4-2.ts
+#EXTINF: 4.000,
+https://github.com/anortzf/video4.ts/raw/main/i3q4gcBi-24721146.mp4-3.ts
+#EXTINF: 4.000,
+https://github.com/anortzf/video4.ts/raw/main/i3q4gcBi-24721146.mp4-4.ts
+#EXTINF: 4.000,
+https://github.com/anortzf/video4.ts/raw/main/i3q4gcBi-24721146.mp4-5.ts
+#EXTINF: 3.000,
+https://github.com/anortzf/video4.ts/raw/main/i3q4gcBi-24721146.mp4-6.ts
+# EXT-X-ENDLIST
